@@ -11,7 +11,7 @@
 
 ## Quick start
 
-- Clone this repo using git clone https://github.com/marksabelita/user-list.git
+- Clone this repo using git clone https://github.com/marksabelita/userlist.git
 - Move to the appropriate directory: cd user-list.
 - Install dependencies
 ```
